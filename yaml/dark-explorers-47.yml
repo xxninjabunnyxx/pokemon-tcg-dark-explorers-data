@@ -1,0 +1,101 @@
+---
+id: bw5-47
+name: Eelektross
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '140'
+types:
+- Lightning
+evolvesFrom: Eelektrik
+attacks:
+- name: Suction Heal
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '40'
+  text: Heal from this Pokémon the same amount of damage you did to the Defending
+    Pokémon.
+- name: Slurp Shakedown
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: ''
+  text: Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon. This
+    attack does 60 damage to the new Defending Pokémon.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: bw5
+  name: Dark Explorers
+  series: Black & White
+  printedTotal: 108
+  total: 111
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: DEX
+  releaseDate: 2012/05/09
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/bw5/symbol.png
+    logo: https://images.pokemontcg.io/bw5/logo.png
+number: '47'
+artist: kawayoo
+rarity: Rare Holo
+flavorText: With their sucker mouths, they suck in prey. Then they use their fangs
+  to shock the prey with electricity.
+nationalPokedexNumbers:
+- 604
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/bw5/47.png
+  large: https://images.pokemontcg.io/bw5/47_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/bw5-47
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 0.34
+      mid: 1.56
+      high: 3.0
+      market: 1.6
+      directLow: 2.4
+    reverseHolofoil:
+      low: 0.71
+      mid: 1.56
+      high: 4.35
+      market: 1.62
+      directLow: 0.75
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/bw5-47
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 1.3
+    lowPrice: 0.05
+    trendPrice: 1.06
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.74
+    reverseHoloLow: 0.3
+    reverseHoloTrend: 2.83
+    lowPriceExPlus: 0.2
+    avg1: 0.1
+    avg7: 1.22
+    avg30: 1.3
+    reverseHoloAvg1: 0.98
+    reverseHoloAvg7: 1.86
+    reverseHoloAvg30: 1.89
